@@ -1,0 +1,122 @@
+METEL UNLEASHED — CHANGELOG (Made by Kenjy)
+   v1.0 — First Release
+==========================================
+
+🔹 NEW FEATURES
+----------------------------------------------------------------------
+
+🌊 OCEAN MODE
+   - Fully transparent water with adjustable height
+   - Oxygen system with air bubbles to breathe
+   - Swimming & floating mechanics (Space to go up, Shift to go down)
+   - Automatic water rise/fall cycle
+   - Instant GameOver on drowning
+   - Auto-reset in main menu
+
+🚁 DRONE MODE
+   - Flying camera
+   - Controls: WASD / Space/Shift / Mouse / R to return to player
+   - Optimized performance (30 FPS max, reduced resolution)
+
+🎵 CUSTOM MUSIC
+   - Load .wav / .ogg files from a dedicated folder
+   - Progress bar + resume playback
+   - Adjustable Pitch & Speed (sliders)
+   - Mute/Unmute with M key
+   - Pause button
+
+🎮 GRAPHICS QUALITY
+   - 6 levels: Legendary, Ultra, High, Medium, Low, Very Low
+   - Anti-aliasing, shadows, textures, FPS limit, fog
+   - Improved materials in Game
+   - Sharpening effect (AMD CAS-like) for Ultra & Legendary
+   - Light and realistic fog for interiors
+
+🎨 MOD DISPLAY
+   - Customizable colors (background, accent, text, buttons, borders)
+   - Color presets (Green, Red, Blue, Gold, Purple, Cyan)
+   - Animated particles
+   - Adjustable menu size (50% → 150%)
+
+🌍 LOCALIZATION
+   - 6 languages: Français, English, Español, Deutsch, Русский, Português
+   - F5 to switch languages
+   - All menu texts translated
+
+🎭 MASKS & SKINS UNLOCKER
+   - Unlock all maniac masks
+   - Unlock all maniac skins
+   - Fisherman skin included (20 fish collected)
+
+🔇 NOISE DISABLER
+   - Disable all game noises (bells, glass, crows, dog, traps, elevator...)
+
+📐 MENU SIZE
+   - Adjustable menu size from 50% to 150%
+   - F6 shortcut to cycle through sizes
+
+⚡ VSYNC CONTROL
+   - Enable/Disable VSync
+
+📦 ITEM TELEPORT
+   - View all items in the current level
+   - Add items directly to inventory
+   - Compatible with all Chapters
+
+🎣 FISH COUNTER
+   - Fish collection counter (0/20)
+   - Unlock Fisherman skin at 20 fish
+   - Gift counter (old version)
+   - Pumpkin counter
+
+🔧 OTHER FEATURES
+   - God Mode (F2)
+   - Noclip (F3)
+   - ESP for Maniac (F4)
+   - Wallhack (transparent walls / ESP only)
+   - Player / Maniac / Dog size modifier
+   - Gravity & Time Scale control
+   - Fly Mode
+   - Drawing Mode
+   - Upside Down mode
+   - Party Mode (colorful overlay)
+   - Maniac Freeze
+   - Maniac Speed adjustment
+   - Maniac Voice pitch changer
+   - Maniac Voice lines player
+   - Maniac Attract (noise, hunt, rage)
+   - Maniac Cloning (clones + trap clones)
+   - Unlimited Lives
+   - Safe Cracker (all lock types)
+   - Surveillance Cameras (with drone creation)
+   - Atmosphere presets (15+ environments)
+   - Video game atmosphere presets (Granny, Silent Hill, Resident Evil, and so on)
+   - Keyboard overlay
+   - Custom Timer
+   - Graphics mod
+
+🛠️ BUG FIXES
+---------------
+   - Reset Speeds sliders now properly synchronized
+   - Escape key now releases cursor properly
+   - Only one drone allowed at a time
+   - Draw Mode: cursor trace + adjustable distance
+   - Music pause no longer changes track
+   - "Can Chase" now works on all chapters (Level_A/B/C/D)
+   - Water automatically set to -6 on Level_B (Emily)
+   - Graphics settings now work correctly
+   - Improved stability and performance
+
+📂 COMPATIBILITY
+-------------------------
+   - METEL: Horror Escape v1.01
+   - MelonLoader v0.7.3
+   - Windows 10 / 11
+   - Chapters 1, 2, 3 and 4 fully supported
+
+🙏 CREDITS
+---------------
+Developed by Kenjy
+This is my first mod, done in almost 6 months, Thanks for the people who will support the mod 🫶 ❤️
+
+==========================================
