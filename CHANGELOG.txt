@@ -1,122 +1,156 @@
-METEL UNLEASHED — CHANGELOG (Made by Kenjy)
-   v1.0 — First Release
+# METEL UNLEASHED — CHANGELOG
+## v1.1.0 — The Anomaly Update (Made by Kenjy)
 ==========================================
 
-🔹 NEW FEATURES
-----------------------------------------------------------------------
+🆕 NEW FEATURES
 
-🌊 OCEAN MODE
-   - Fully transparent water with adjustable height
-   - Oxygen system with air bubbles to breathe
-   - Swimming & floating mechanics (Space to go up, Shift to go down)
-   - Automatic water rise/fall cycle
-   - Instant GameOver on drowning
-   - Auto-reset in main menu
+1) 🟣 ANOMALIES SYSTEM (11 ANOMALIES)
+A brand new game mode that twists the gameplay with unique challenges!
 
-🚁 DRONE MODE
-   - Flying camera
-   - Controls: WASD / Space/Shift / Mouse / R to return to player
-   - Optimized performance (30 FPS max, reduced resolution)
+| # | Anomaly | Description |
 
-🎵 CUSTOM MUSIC
-   - Load .wav / .ogg files from a dedicated folder
-   - Progress bar + resume playback
-   - Adjustable Pitch & Speed (sliders)
-   - Mute/Unmute with M key
-   - Pause button
+| 1 | "Fog of War" | The fog becomes darker, but the maniac takes longer to arrive |
+| 2 | "Random Noises" | Random noises occur, but the player is faster than usual |
+| 3 | "Don't Stand Up" | If you walk more than 3m standing, the maniac comes in 5s |
+| 4 | "Tilted World" | The screen tilts occasionally. Stand still to clear it |
+| 5 | "Inventory Flood" | 3 random items appear every 2 minutes. Make noise to remove them |
+| 6 | "Teleport & Fog" | Press T to teleport. Fog colors change every 25 seconds |
+| 7 | "Speedrun" | Finish in under 6 minutes. FOV changes randomly, longer reach |
+| 8 | "Shrinking" | Each time you use an item, you shrink by 0.1m. Don't get too small! |
+| 9 | "Silent Hunt" | Noises are disabled. Press N to create a manual noise. Maniac appears every 40s if silent |
+| 10 | "Mirror House" | The world is inverted. Can you still find your way? |
 
-🎮 GRAPHICS QUALITY
-   - 6 levels: Legendary, Ultra, High, Medium, Low, Very Low
-   - Anti-aliasing, shadows, textures, FPS limit, fog
-   - Improved materials in Game
-   - Sharpening effect (AMD CAS-like) for Ultra & Legendary
-   - Light and realistic fog for interiors
+> ℹ️ Note: Anomalies do not work in Chapter D for now (Adele's Chapter)
 
-🎨 MOD DISPLAY
-   - Customizable colors (background, accent, text, buttons, borders)
-   - Color presets (Green, Red, Blue, Gold, Purple, Cyan)
-   - Animated particles
-   - Adjustable menu size (50% → 150%)
+---
 
-🌍 LOCALIZATION
-   - 6 languages: Français, English, Español, Deutsch, Русский, Português
-   - F5 to switch languages
-   - All menu texts translated
+2) 🏆 ACHIEVEMENTS SYSTEM (20 ACHIEVEMENTS)
+Track your progress and unlock achievements for completing specific challenges! Important: You must unlock at least 10 achievements to unlock the anomalies menu
 
-🎭 MASKS & SKINS UNLOCKER
-   - Unlock all maniac masks
-   - Unlock all maniac skins
-   - Fisherman skin included (20 fish collected)
+| # | Achievement | Condition |
+| 1 | "A New Challenger" | Start the game for the first time with the mod |
+| 2 | "Smooth Talker" | Equip a skin or mask |
+| 3 | "The Silent Treatment" | Disable all game sounds |
+| 4 | "Not My First Rodeo" | Escape for the first time |
+| 5 | "Surveillance Expert" | Stay 45 seconds in a camera POV without leaving |
+| 6 | "Deep Blue Sea" | Swim in Ocean mode |
+| 7 | "Where Did He Go?" | Use the Freeze Maniac function |
+| 8 | "Bulls-eye" | Use ESP to locate the maniac |
+| 9 | "Close Call" | Get hit by the maniac while God Mode is active |
+| 10 | "The Giant Slayer" | Increase the maniac's size to maximum |
+| 11 | "The Architect" | Change the menu color via ModDisplay |
+| 12 | "I'm a PC" | Set the game to Low or Very Low graphics |
+| 13 | "Can't Touch This" | Use NoClip |
+| 14 | "Disc Jockey" | Change the music 10 times |
+| 15 | "So It Begins" | Start a game with an anomaly activated |
+| 16 | "Perfectionist" | Complete all anomalies |
+| 17 | "Smooth Criminal" | Get caught making noise |
+| 18 | "I'm Melting!" | Set the player size to minimum |
+| 19 | "Mister Worldwide" | Change the game language |
+| 20 | "Lose Yourself" | Get a Game Over screen |
 
-🔇 NOISE DISABLER
-   - Disable all game noises (bells, glass, crows, dog, traps, elevator...)
 
-📐 MENU SIZE
-   - Adjustable menu size from 50% to 150%
-   - F6 shortcut to cycle through sizes
 
-⚡ VSYNC CONTROL
-   - Enable/Disable VSync
+3) 🛡️ PROCESS DETECTOR (CHEAT DETECTOR)
+- Press "P" to open the Process Detector window
+- Scans for suspicious processes (auto-clickers, cheat engines, trainers, injectors...)
+- "Filter": Show only detections
+- "Search": Find specific processes
+- "Manual scan" with cooldown
+- Auto-scan toggle (disabled by default)
 
-📦 ITEM TELEPORT
-   - View all items in the current level
-   - Add items directly to inventory
-   - Compatible with all Chapters
 
-🎣 FISH COUNTER
-   - Fish collection counter (0/20)
-   - Unlock Fisherman skin at 20 fish
-   - Gift counter (old version)
-   - Pumpkin counter
+🪞 MIRROR HOUSE ANOMALY
+- Full screen mirror effect (horizontal flip)
+- Controls are inverted (left = right, right = left)
+- Fog and visual effects automatically disabled during the anomaly
 
-🔧 OTHER FEATURES
-   - God Mode (F2)
-   - Noclip (F3)
-   - ESP for Maniac (F4)
-   - Wallhack (transparent walls / ESP only)
-   - Player / Maniac / Dog size modifier
-   - Gravity & Time Scale control
-   - Fly Mode
-   - Drawing Mode
-   - Upside Down mode
-   - Party Mode (colorful overlay)
-   - Maniac Freeze
-   - Maniac Speed adjustment
-   - Maniac Voice pitch changer
-   - Maniac Voice lines player
-   - Maniac Attract (noise, hunt, rage)
-   - Maniac Cloning (clones + trap clones)
-   - Unlimited Lives
-   - Safe Cracker (all lock types)
-   - Surveillance Cameras (with drone creation)
-   - Atmosphere presets (15+ environments)
-   - Video game atmosphere presets (Granny, Silent Hill, Resident Evil, and so on)
-   - Keyboard overlay
-   - Custom Timer
-   - Graphics mod
+---
 
-🛠️ BUG FIXES
----------------
-   - Reset Speeds sliders now properly synchronized
-   - Escape key now releases cursor properly
-   - Only one drone allowed at a time
-   - Draw Mode: cursor trace + adjustable distance
-   - Music pause no longer changes track
-   - "Can Chase" now works on all chapters (Level_A/B/C/D)
-   - Water automatically set to -6 on Level_B (Emily)
-   - Graphics settings now work correctly
-   - Improved stability and performance
+🔇 SILENT HUNT ANOMALY
+- All automatic noises are disabled
+- Press "N" to create a manual noise
+- 3-second cooldown between manual noises
+- Maniac appears every 40 seconds if no noise is made
+- Visual timer on screen shows remaining time
+
+---
+
+📏 SHRINKING ANOMALY
+- Start at 2 meters tall
+- Each item used shrinks you by 0.1m
+- Minimum size: 0.3m 
+- Camera follows the player's height
+
+---
+
+🌫️ TELEPORT & FOG ANOMALY
+- Press "T" to teleport where you're looking
+- Fog changes color every 25 seconds with 6 different colors
+- Scene tint matches the fog color
+
+---
+
+🎮 KEYBOARD OVERLAY IMPROVEMENTS
+- Added "P" key shortcut next to F1-F5
+- Added "Cheat Detector" label under the P key
+- All shortcuts clearly labeled
+
+---
+
+🛠️ BUG FIXES & IMPROVEMENTS
+
+- Chapter D: Anomalies are now blocked with a clear message
+- Mirror House: Fixed fog issue causing white screen
+- Teleport & Fog: Fixed fog distance for small rooms
+- Shrinking: Camera now follows the player's height properly
+- Speedrun: Fixed timer sync issues
+- Silent Hunt: Fixed N key being blocked during maniac appearance
+- Laser Trap: Temporarily hidden (will be fixed in a future update)
+- Translation: Simplified to English for better stability with new features
+- Improved "Low" and "Very Low" modes for Quality Settings (Now it is the game textures that are blurred)
+- The key to delete points 1 by 1 in Draw Mode has been changed from "M" to "Delete"
+- The VSync option is now enabled when starting the mod
+- The “Freeze Maniac” option now works correctly
+- Removed the “Camera that follows size" option which was useless
+- No more bug on changing dog size
+
+
+
+---
 
 📂 COMPATIBILITY
--------------------------
-   - METEL: Horror Escape v1.01
-   - MelonLoader v0.7.3
-   - Windows 10 / 11
-   - Chapters 1, 2, 3 and 4 fully supported
+
+| Component | Version |
+
+| METEL: Horror Escape | v1.01 |
+
+| MelonLoader | v0.7.3 |
+
+| OS | Windows 10 / 11 |
+
+| Chapters | 1, 2, 3 and 4 fully supported |
+
+---
+
+🎮 QUICK REFERENCE
+
+| Key | Action |
+
+| "F1" | Open/Close Mod Menu |
+| "F2" | God Mode Toggle |
+| "F3" | Noclip Toggle |
+| "F4" | ESP Toggle |
+| "F5" | Change Language |
+| "P" | Open Cheat Detector |
+| "N" | Manual Noise (Silent Hunt) |
+| "T" | Teleport (Teleport & Fog) |
+
+---
 
 🙏 CREDITS
----------------
-Developed by Kenjy
-This is my first mod, done in almost 6 months, Thanks for the people who will support the mod 🫶 ❤️
 
-==========================================
+Developed by Kenjy
+
+This is my first mod, done in almost 6 months, for update v1.1 done in 3 weeks.
+Thanks to everyone who will support the mod 🫶 ❤️ ! 
