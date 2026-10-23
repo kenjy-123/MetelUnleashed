@@ -1,8 +1,7 @@
-# 🔥 METEL: UNLEASHED
+# METEL: UNLEASHED
 
 <div align="center">
 
-### THE NIGHTMARE HAS CHANGED. THE RULES HAVE BEEN BROKEN.
 
 **The Ultimate Modding Experience for METEL: Horror Escape**
 
@@ -11,33 +10,24 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
 ![MelonLoader](https://img.shields.io/badge/MelonLoader-0.7.3-orange?style=for-the-badge)
 
-**Created by Kenjy ❤️**
-
-*9 months of passion. Countless hours of development. One unleashed experience.*
+**Created by Kenjy**
 
 ---
 
-### 💀 YOUR GAME. YOUR RULES. YOUR NIGHTMARE.
-
 </div>
 
-## 🎮 WELCOME TO METEL: UNLEASHED
+## WELCOME TO METEL: UNLEASHED
 
 **METEL: UNLEASHED** is an ambitious, feature-packed modification for **METEL: Horror Escape**, designed to transform the original horror experience into a world of limitless experimentation, customization, and creativity.
 
-Originally developed as a personal project, METEL: UNLEASHED has grown into an extensive modding experience featuring **advanced gameplay tools, special game modes, custom music, interactive anomalies, visual enhancements, and a complete in-game customization system.**
+Originally developed as a personal project, METEL: UNLEASHED has grown into an extensive modding experience featuring **advanced gameplay tools, special game modes, custom music, anomalies, visual enhancements, and a complete in-game customization system.**
 
 Whether you're looking to explore beyond the game's boundaries, experiment with strange mechanics, create your own sounds, or face unexpected challenges, there's always something new to discover.
 
-> ⚡ **This isn't just a collection of cheats. It's an entirely new way to experience METEL.**
 
 ---
 
 ## 🚀 v1.3.0 — THE BEST UNLEASHED UPDATE
-
-### 🔥 BIGGER. DARKER. BETTER.
-
-Version **1.3.0** marks another major milestone in METEL: UNLEASHED's development.
 
 After **2 months of additional work**, this release brings a dramatic visual overhaul, new creative tools, improved anomaly compatibility, redesigned interfaces, and significant performance improvements.
 
@@ -59,17 +49,16 @@ After **2 months of additional work**, this release brings a dramatic visual ove
 
 ---
 
-## 🏚️ GRANNY ATMOSPHERE — ENTER THE DARKNESS
+## 🏚️ GRANNY ATMOSPHERE
 
-*Familiar surroundings. A completely different atmosphere.*
 
 The improved **Granny Atmosphere Preset** transforms METEL's environments into a darker, more unsettling world inspired by classic horror aesthetics.
 
 ### ✨ Visual Enhancements
 
-- 🧱 **Custom HD Textures** — Redesigned walls, floors, bricks and concrete surfaces
-- 🌫️ **Floating Dust Particles** — Atmospheric dust particles bring the environment to life
-- 💀 **Improved Horror Aesthetic** — A more immersive, aged and abandoned appearance
+-  **Custom HD Textures** — Redesigned walls, floors, bricks and concrete surfaces
+-  **Floating Dust Particles** — Atmospheric dust particles bring the environment to life
+-  **Improved Horror Aesthetic** — A more immersive, aged and abandoned appearance
 
 **Every detail matters when you're trapped inside a nightmare.**
 
@@ -80,8 +69,6 @@ The improved **Granny Atmosphere Preset** transforms METEL's environments into a
 ## 🎵 SOUND LAB (BETA) — CREATE YOUR OWN SOUND
 
 ### 🎹 A MINI MUSIC STUDIO. INSIDE A HORROR GAME.
-
-Why only play the game when you can create something inside it?
 
 Introducing **SOUND LAB**, an experimental mini-DAW (*Digital Audio Workstation*) integrated directly into METEL: UNLEASHED.
 
@@ -106,9 +93,7 @@ Introducing **SOUND LAB**, an experimental mini-DAW (*Digital Audio Workstation*
 
 ---
 
-## 👁️ THE ANOMALIES — EXPECT THE UNEXPECTED
-
-### ⚠️ NOTHING IS QUITE WHAT IT SEEMS.
+## 👁️ THE ANOMALIES
 
 First introduced in **v1.1.0**, the Anomaly system adds a completely different dimension to METEL: Horror Escape.
 
@@ -152,7 +137,7 @@ The completely redesigned **Legit Menu** gives players access to permitted custo
 
 ---
 
-## ⚡ MORE FEATURES. MORE FREEDOM.
+## ⚡ MORE FEATURES.
 
 METEL: UNLEASHED goes far beyond the latest update.
 
@@ -187,7 +172,7 @@ METEL: UNLEASHED goes far beyond the latest update.
 
 ---
 
-## 🎧 CUSTOM MUSIC — YOUR SOUNDTRACK, YOUR WAY
+## 🎧 CUSTOM MUSIC — YOUR SOUNDTRACK.
 
 Tired of the usual soundtrack?
 
@@ -232,11 +217,11 @@ Version 1.3.0 introduces a stronger visual identity, making the mod feel more li
 - 🚀 **v1.4 COMING SOON** — A teaser card linking to the mod's page
 - 🎨 **Improved Interface** — UI fixes, menu adjustments and refined interactions
 
-**This is METEL: UNLEASHED. And it's only getting started.**
+**This is METEL: UNLEASHED. And it's only getting started...**
 
 ---
 
-## 📥 INSTALLATION — UNLEASH THE EXPERIENCE
+## 📥 INSTALLATION
 
 ### ⚙️ STEP 1 — INSTALL MELONLOADER
 
@@ -270,7 +255,7 @@ METEL: Horror Escape/
 2. Wait for MelonLoader and the mod to load.
 3. Press `F1` to access the main mod menu.
 
-### 🔥 YOU'RE READY TO UNLEASH METEL.
+### 🔥 HAVE FUN!
 
 ---
 
@@ -325,7 +310,7 @@ METEL: Horror Escape/
 - Fixed unclickable UI buttons
 - Fixed Custom Music volume and pitch in main menu
 - Fixed Dog Size glitches
-- Reduced excessive debug logs
+- Reduced excessive MelonLoader debug logs
 - Standardized mod menus and logs in English
 - Improved anomaly restrictions and compatibility
 
@@ -367,8 +352,6 @@ METEL: Horror Escape/
 
 ## 🛠️ DEVELOPMENT JOURNEY
 
-### ❤️ FROM A SIMPLE IDEA TO A REAL PROJECT.
-
 METEL: UNLEASHED is my **first mod ever**.
 
 What started as a personal experiment eventually became a project I dedicated almost **9 months** of my time to.
@@ -391,11 +374,7 @@ This project means a lot to me, and I hope you'll enjoy exploring everything it 
 
 ### 👀 v1.4 — COMING SOON.
 
-**The journey isn't over.**
-
 More development lies ahead for METEL: UNLEASHED.
-
-Stay connected to follow future announcements and updates!
 
 *The next chapter of UNLEASHED is waiting...*
 
@@ -413,9 +392,9 @@ The original METEL developers are not responsible for issues resulting from inst
 
 ## 🙏 CREDITS & CONTACT
 
-**👨‍💻 Creator & Developer:** Kenjy
+**👨‍💻 Creator & Modder :** Kenjy
 
-**🎮 Original Game:** METEL: Horror Escape
+**🎮 Developer of the original game:** Linked Squad
 
 **💬 Discord:** `kenjy123_`
 
@@ -426,17 +405,5 @@ If you enjoy METEL: UNLEASHED, consider giving the GitHub repository a **Star �
 Your support means a lot and helps motivate future development.
 
 ---
-
-<div align="center">
-
-### 🔥 METEL: UNLEASHED
-
-**BREAK THE RULES. EXPLORE THE UNKNOWN.**
-
-*Made with ❤️ by Kenjy.*
-
-**v1.3.0 — The Best Unleashed Update**
-
-💀 **THE NIGHTMARE IS YOUR PLAYGROUND.** 💀
 
 </div>
