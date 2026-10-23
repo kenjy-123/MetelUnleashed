@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[https://i.imgur.com/AfMLGLb.jpeg](https://i9.ytimg.com/vi_webp/qB4i7KUhXmg/maxresdefault.webp?v=6a6cfba1&sqp=CPSo7dYG&rs=AOn4CLDUME7iCIYltYee77ffdA-xyD0PaA)" alt="Joker Show Encore" width="700"/>
+  <img src="[https://i.imgur.com/AfMLGLb.jpeg](https://i9.ytimg.com/vi_webp/qB4i7KUhXmg/maxresdefault.webp?v=6a6cfba1&sqp=CPSo7dYG&rs=AOn4CLDUME7iCIYltYee77ffdA-xyD0PaA)" alt="Metel: Unleashed" width="700"/>
 
 # METEL: UNLEASHED
 
