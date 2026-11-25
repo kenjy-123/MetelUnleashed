@@ -1,413 +1,375 @@
-<div align="center">
-
-  <img src="https://i9.ytimg.com/vi_webp/qB4i7KUhXmg/maxresdefault.webp?v=6a6cfba1&sqp=CPSo7dYG&rs=AOn4CLDUME7iCIYltYee77ffdA-xyD0PaA" alt="Metel: Unleashed" width="700"/>
-
-# METEL: UNLEASHED
-
-<div align="center">
-
-
-**The Ultimate Modding Experience for METEL: Horror Escape**
-
-![Version](https://img.shields.io/badge/Version-1.3.0-DC143C?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Released-brightgreen?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
-![MelonLoader](https://img.shields.io/badge/MelonLoader-0.7.3-orange?style=for-the-badge)
-
-**Created by Kenjy**
+# METEL UNLEASHED — v1.4.0 *(By Kenjy)*
 
 ---
 
-</div>
+## 🛠️ INSTALLATION
 
-## WELCOME TO METEL: UNLEASHED
+1. **Install MelonLoader** *(required to run the mod)*
+   - Download the official MelonLoader installer from MelonWiki: https://melonloader.co/download.html
+   - Run the installer, select the **METEL** game folder, and click **INSTALL**.
 
-**METEL: UNLEASHED** is an ambitious, feature-packed modification for **METEL: Horror Escape**, designed to transform the original horror experience into a world of limitless experimentation, customization, and creativity.
+2. Copy `MetelMod.dll` into the `Mods/` folder *(automatically created by MelonLoader)* and launch the game.
 
-Originally developed as a personal project, METEL: UNLEASHED has grown into an extensive modding experience featuring **advanced gameplay tools, special game modes, custom music, anomalies, visual enhancements, and a complete in-game customization system.**
+3. Press `F1` in-game to open the mod menu.
 
-Whether you're looking to explore beyond the game's boundaries, experiment with strange mechanics, create your own sounds, or face unexpected challenges, there's always something new to discover.
-
-
----
-
-## 🚀 v1.3.0 — THE BEST UNLEASHED UPDATE
-
-After **2 months of additional work**, this release brings a dramatic visual overhaul, new creative tools, improved anomaly compatibility, redesigned interfaces, and significant performance improvements.
-
-### 🌟 UPDATE HIGHLIGHTS
-
-| Feature | What's New |
-|---|---|
-| 🏚️ **Granny Atmosphere** | HD environment textures and floating dust particles |
-| 🎹 **Sound Lab (BETA)** | Built-in music creation tool featuring 16 pads and 4 sound presets |
-| 👁️ **11 Anomalies** | All 11 anomalies now playable in Adele's Chapter |
-| 🎨 **New Branding** | Dedicated METEL UNLEASHED logo and v1.4 teaser |
-| 🦘 **Jump Modifier** | Customize jump height from 10% to 150% |
-| 🖐️ **Interaction Reach** | Adjust interaction distance from 1m to 30m |
-| 🛡️ **Legit Menu** | Redesigned menu with anomaly-safe options |
-| ✨ **Welcome Screen** | A brand-new first-launch experience |
-| ⚡ **Optimization** | Cleaner debug logs, bug fixes and improved stability |
-
-**This update is about much more than adding features — it's about making the entire experience feel better.**
+4. *(If that doesn't work, launch the game with MelonLoader for the first time without the `.dll` file in the `Mods` folder, then exit the game and relaunch it this time with the `.dll` file in the `Mods` folder)*
 
 ---
 
-## 🏚️ GRANNY ATMOSPHERE
-
-
-The improved **Granny Atmosphere Preset** transforms METEL's environments into a darker, more unsettling world inspired by classic horror aesthetics.
-
-### ✨ Visual Enhancements
-
--  **Custom HD Textures** — Redesigned walls, floors, bricks and concrete surfaces
--  **Floating Dust Particles** — Atmospheric dust particles bring the environment to life
--  **Improved Horror Aesthetic** — A more immersive, aged and abandoned appearance
-
-**Every detail matters when you're trapped inside a nightmare.**
-
-> 📝 **Creator's Note:** The visual assets were created specifically for this mod. No original Granny game textures were used. The brick wall image was generated with MidJourney and subsequently modified by hand.
+> **Things to know about the mod:**
+> - The anomalies menu is unlocked only if you have **10 or more achievements**.
+> - Most of the cheats in the `F1` menu are disabled when you activate an anomaly.
 
 ---
 
-## 🎵 SOUND LAB (BETA) — CREATE YOUR OWN SOUND
+## 🆕 WHAT'S NEW IN v1.4.0?
 
-### 🎹 A MINI MUSIC STUDIO. INSIDE A HORROR GAME.
-
-Introducing **SOUND LAB**, an experimental mini-DAW (*Digital Audio Workstation*) integrated directly into METEL: UNLEASHED.
-
-### 🎼 FEATURES
-
-- 🎛️ **16 interactive pads** per preset
-- 🎹 **Piano** preset
-- 🎸 **Bass** preset
-- 🥁 **Kick** preset
-- 🪘 **Snare** preset
-- 🔊 **Adjustable preset volumes**
-
-### 🎮 HOW TO USE
-
-1. Press `F1` to open the mod menu.
-2. Navigate to **SOUND LAB**.
-3. Select your preferred sound preset.
-4. Click the pads to play sounds.
-5. Adjust volumes to personalize your experience.
-
-> 🧪 **BETA FEATURE:** Sound Lab is still under active development. Expect additional improvements in future updates.
+- **The Seed System** — Share and replay exact item locations and safe codes! Includes Random Mode and 5 save seed slots.
+- **Christmas Mode** — A visual overhaul with custom snow/blood textures, falling snow, and hidden vanilla decorations.
+- **Major Anomaly Fixes & many mod bugs fixed**
+- **"Perfectionist"** achievement now track your progress correctly.
+- **Keyboard Overlay Redesign** — A beautiful new AZERTY layout that hides intelligently in the main menu.
 
 ---
 
-## 👁️ THE ANOMALIES
+## 🌱 HOW TO USE THE SEED SYSTEM
 
-First introduced in **v1.1.0**, the Anomaly system adds a completely different dimension to METEL: Horror Escape.
-
-With **11 unique anomalies** and **20 achievements** introduced in the Anomaly Update, players can unlock new ways to experience the game.
-
-🏆 **Unlock 10 achievements to access the anomalies.**
-
-### 🆕 WHAT CHANGED IN v1.3.0?
-
-**All 11 anomalies are now fully playable in Chapter 4 — Adele's Chapter!**
-
-The update also brings improvements to anomaly compatibility and gameplay restrictions.
-
-### 🛡️ FAIR PLAY DURING ANOMALIES
-
-To preserve the intended challenges:
-
-- 🚫 Cheats are automatically disabled while an anomaly is active.
-- 🚫 Jumping is restricted during anomalies, except for the Shrinking anomaly.
-- ✅ A dedicated **Legit Menu** remains accessible.
-
-**Your skills are your greatest weapon.**
+1. Open the Mod Menu (`F1`) and go to **"SEED SYSTEM"**.
+2. Type a number in the box and click **"Apply Seed"**.
+3. Restart a chapter. You will see `"SEED: [YourNumber]"` in the top-left corner.
+4. To play completely randomly, click **"Random"** *(a new seed generates every time you load)*.
+5. You can save up to **5** of your favorite seeds using the **Save Slots**.
 
 ---
 
-## 🛡️ LEGIT MENU — CONTROL WITHOUT CHEATING
+## 🎄 HOW TO USE CHRISTMAS MODE?
 
-### 🔑 PRESS `K` DURING ANOMALIES
-
-The completely redesigned **Legit Menu** gives players access to permitted customization options without compromising anomaly challenges.
-
-**Available controls include:**
-
-- 👁️ Field of View (FOV)
-- 🎞️ FPS Limit
-- ⚡ VSync
-- 🖥️ Graphics Quality (Medium only)
-- 📺 HUD Toggles
-
-> 🔒 The Legit Menu is designed to work safely during anomalies, while cheat-related features remain disabled.
+- **To Enable it:** Go to `F1`, **ATMOSPHERE**, Activate **"Video game presets"**, then select **"Christmas"** theme.
+- **To disable it:** Go to `F1`, **"ATMOSPHERE"**, then Click **"Restore original"** or select another preset *(like Granny)*.
 
 ---
 
-## ⚡ MORE FEATURES.
+## 🎵 CUSTOM MUSIC & SOUND LAB
 
-METEL: UNLEASHED goes far beyond the latest update.
+### Custom Music
+1. Go to the game folder.
+2. Go to `UserData/MetelMod/Music/`.
+3. Place your `.wav` or `.ogg` files in this folder.
+4. In-game, go to **"CUSTOM MUSIC"** and refresh the list.
 
-### 🎮 GAMEPLAY & EXPLORATION
-
-| Feature | Description |
-|---|---|
-| 🌊 **Ocean Mode** | Experience swimming mechanics and oxygen management |
-| 🚁 **Drone Mode** | Explore environments using a free-flying camera |
-| 🛡️ **God Mode** | Become invulnerable |
-| 👻 **Noclip** | Pass through walls and obstacles |
-| 🔴 **Maniac ESP** | Locate the Maniac visually |
-| 📦 **Item Teleport** | Teleport items |
-| 🦸 **Size Modifier** | Modify the size of game characters |
-| 🦘 **Jump Height** | Set jump height from 10% to 150% |
-| 🖐️ **Interaction Distance** | Set interaction reach between 1m and 30m |
-
-### 🎨 CUSTOMIZATION & QUALITY OF LIFE
-
-| Feature | Description |
-|---|---|
-| 🎨 **ModDisplay** | Customize the mod menu colors |
-| 🖥️ **Graphics Options** | Six graphical quality levels |
-| ⚡ **VSync** | Enable or disable vertical synchronization |
-| 🎭 **Unlock Cosmetics** | Unlock masks and skins |
-| 🔇 **Noise Control** | Disable in-game noises |
-| 📐 **Menu Scaling** | Resize your mod menu |
-| ⌨️ **Keyboard Overlay** | Display useful keyboard controls |
-| 🎵 **Custom Music** | Import and control your own audio files |
-
-*Discover even more features directly through the mod menu.*
+### Sound Lab (Beta)
+1. Open the `F1` menu and go to **"SOUND LAB"**.
+2. Select a preset *(Piano, Bass, Kick, Snare)* and click the pads.
 
 ---
 
-## 🎧 CUSTOM MUSIC — YOUR SOUNDTRACK.
-
-Tired of the usual soundtrack?
-
-**METEL: UNLEASHED lets you bring your own music into the game.**
-
-### 📁 SUPPORTED FORMATS
-
-- `.wav` — Uncompressed audio
-- `.ogg` — Compressed audio
-
-### 📥 ADD YOUR OWN TRACKS
-
-1. Open your METEL game directory.
-2. Navigate to `UserData/MetelMod/Music/`.
-3. Place your `.wav` or `.ogg` audio files inside.
-4. Launch the game.
-5. Open **CUSTOM MUSIC** from the `F1` menu.
-6. Refresh the music list.
-
-### 🎚️ AUDIO CONTROLS
-
-Customize your listening experience with:
-
-- 🔊 Volume adjustments
-- 🎵 Pitch controls
-- ⏩ Playback speed adjustments
-
-**Improved in v1.3.0:** Volume and pitch changes now apply immediately in the main menu!
-
-> 💡 **TIP:** `.ogg` is recommended for a good balance between sound quality and file size.
-
----
-
-## 🎨 A NEW IDENTITY — METEL UNLEASHED
-
-### ✨ A MOD WITH ITS OWN PERSONALITY.
-
-Version 1.3.0 introduces a stronger visual identity, making the mod feel more like a complete standalone experience.
-
-- 🔥 **Custom Main Menu Logo** — A dedicated METEL UNLEASHED logo replaces the original menu logo
-- 👋 **Redesigned Welcome Screen** — A refreshed introduction for first-time players
-- 🚀 **v1.4 COMING SOON** — A teaser card linking to the mod's page
-- 🎨 **Improved Interface** — UI fixes, menu adjustments and refined interactions
-
-**This is METEL: UNLEASHED. And it's only getting started...**
-
----
-
-## 📥 INSTALLATION
-
-### ⚙️ STEP 1 — INSTALL MELONLOADER
-
-METEL: UNLEASHED requires **MelonLoader** to function.
-
-1. Download the appropriate MelonLoader installer from its official project.
-2. Run the installer.
-3. Select your **METEL: Horror Escape** game directory.
-4. Install **MelonLoader v0.7.3 Open-Beta**, the version specified for this release.
-
-### 📦 STEP 2 — INSTALL THE MOD
-
-1. Download **METEL: UNLEASHED v1.3.0**.
-2. Locate the downloaded `MetelMod.dll`.
-3. Open your METEL game folder.
-4. Place the file into the `Mods` folder created by MelonLoader.
-
-Your installation should resemble:
-
-```text
-METEL: Horror Escape/
-├── Mods/
-│   └── MetelMod.dll
-├── UserData/
-└── ...
-```
-
-### 🎮 STEP 3 — LAUNCH & PLAY
-
-1. Launch METEL: Horror Escape.
-2. Wait for MelonLoader and the mod to load.
-3. Press `F1` to access the main mod menu.
-
-### 🔥 HAVE FUN!
-
----
-
-## ⌨️ KEYBOARD SHORTCUTS
+## ⌨️ SHORTCUTS
 
 | Key | Action |
-|:---:|---|
-| `F1` | 🎛️ Open / Close Mod Menu |
-| `F2` | 🛡️ Toggle God Mode |
-| `F3` | 👻 Toggle Noclip |
-| `F4` | 🔴 Toggle Maniac ESP |
-| `K` | 🔒 Open / Close Legit Menu during anomalies |
-| `H` | ❌ Instantly close all mod menus |
-| `N` | 🔊 Manual Noise — Silent Hunt |
-| `T` | 🌀 Teleport — Teleport & Fog |
-| `Ctrl + Mouse Wheel` | 📐 Adjust menu scale in 5% increments |
+| :--- | :--- |
+| **F1** | Open/Close Mod Menu |
+| **F2** | God Mode Toggle |
+| **F3** | Noclip Toggle |
+| **F4** | ESP Toggle (Maniac) |
+| **K** | Open/Close Legit Menu *(when an anomaly is active)* |
+| **H** | Close all mod menus instantly |
+| **N** | Manual Noise *(Silent Hunt anomaly)* |
+| **T** | Teleport *(Teleport & Fog anomaly)* |
 
 ---
 
-## 🖥️ COMPATIBILITY & REQUIREMENTS
+## 📜 CHANGELOG
 
-| Component | Supported Version |
-|---|---|
-| 🎮 **Game** | METEL: Horror Escape v1.01 |
-| 🧩 **Mod Loader** | MelonLoader v0.7.3 Open-Beta |
-| 💻 **Operating System** | Windows 10 / Windows 11 |
-| 🏠 **Chapters** | Chapters 1, 2, 3 and 4 |
-| 🌐 **Interface Language** | English |
+### v1.4.0 — The Winter & Seed Update
+- Added **Seed System** *(Custom seeds, Random mode, 5 save slots, HUD display)*.
+- Added **Christmas Mode** *(Custom textures, snow particles, decorations)*.
+- Fixed **Teleport & Fog** UI softlock *(cannot click on terminals)*.
+- Fixed **Don't Stand Up** double-maniac bug and audio freeze.
+- Fixed **Shrinking** anomaly *(can now jump and climb the chair)*.
+- Fixed **God Mode (`F2`)** remaining permanently blocked.
+- Fixed Player animation gliding issue.
+- Fixed **Perfectionist** Achievement.
+- Redesigned **Keyboard Overlay** and fixed Anomaly Menu scrolling.
 
-> ⚠️ **IMPORTANT:** As of v1.3.0, the previous language-switching feature has been removed. All mod menus and logs are now in English for improved stability.
+### v1.3.0 — The Best Unleashed Update
+- Added **Granny Atmosphere Preset**.
+- Added **Sound Lab (Beta)**.
+- **Adele's Chapter Anomalies**.
+- Added **Branding** *(METEL UNLEASHED logo + v1.4 Teaser)*.
+- Added **Jump Height Modifier** and **Interaction Distance** options.
+- Redesigned **Legit Menu (`K`)** and **Welcome Screen**.
 
----
+### v1.1.0 — The Anomaly Update
+- Added **11 Anomalies**.
+- Added **20 Achievements**.
+- Added **Cheat Detector** *(Removed in v1.3)*.
+- **Bug fixes:** Chapter D, Mirror House fog, Teleport & Fog distance, Speedrun timer.
 
-## 📜 UPDATE HISTORY
-
-<details>
-<summary><b>🔥 v1.3.0 — The Best Unleashed Update</b></summary>
-
-### NEW FEATURES
-- Improved Granny Atmosphere Preset
-- Added Sound Lab (Beta)
-- Full anomaly support in Adele's Chapter
-- New METEL UNLEASHED branding
-- v1.4 teaser in the main menu
-- Jump Height Modifier (10–150%)
-- Interaction Distance (1–30m)
-- Redesigned Legit Menu
-- Redesigned Welcome Screen
-- Ctrl + Mouse Wheel menu scaling
-
-### FIXES & IMPROVEMENTS
-- Fixed unclickable UI buttons
-- Fixed Custom Music volume and pitch in main menu
-- Fixed Dog Size glitches
-- Reduced excessive MelonLoader debug logs
-- Standardized mod menus and logs in English
-- Improved anomaly restrictions and compatibility
-
-### REMOVED
-- Language switching
-- Cheat Detector
-
-</details>
-
-<details>
-<summary><b>👁️ v1.1.0 — The Anomaly Update</b></summary>
-
-- Introduced 11 anomalies
-- Introduced 20 achievements
-- Added Cheat Detector (removed in v1.3.0)
-- Added P keyboard shortcut
-- Fixed multiple anomaly-related issues
-- Improved gameplay stability
-
-</details>
-
-<details>
-<summary><b>🌊 v1.0.0 — First Release</b></summary>
-
-- Ocean Mode
-- Drone Mode
-- Custom Music
-- Graphics quality selection
-- Menu color customization
-- Multiple player and gameplay modifiers
-- Keyboard Overlay
-- Item Teleport
-- Cosmetic unlocks
-- Additional interface options
-
-</details>
+### v1.0.0 — First Release
+- Ocean Mode, Drone Mode, Custom Music.
+- 6 Graphics Quality levels, ModDisplay.
+- 6 Languages *(FR, EN, ES, DE, RU, PT)*.
+- Item Teleport, Keyboard Overlay, and much more!
 
 ---
 
-## 🛠️ DEVELOPMENT JOURNEY
+## 🖥️ COMPATIBILITY
 
-METEL: UNLEASHED is my **first mod ever**.
-
-What started as a personal experiment eventually became a project I dedicated almost **9 months** of my time to.
-
-| Milestone | Development Time |
-|---|---|
-| 🌱 **v1.0.0 — First Release** | 7 months |
-| 👁️ **v1.1.0 — The Anomaly Update** | 3 weeks |
-| 🔥 **v1.3.0 — The Best Unleashed Update** | 2 months |
-
-Every update represents hours of experimentation, debugging, creativity, and learning.
-
-This project means a lot to me, and I hope you'll enjoy exploring everything it has to offer.
-
-**Thanks to everyone who downloads, supports, shares, or simply gives this project a chance.** 🫶
+| Component | Version |
+| :--- | :--- |
+| **METEL: Horror Escape** | v1.01 |
+| **MelonLoader** | v0.7.3 Open-Beta |
+| **OS** | Windows 10 / 11 |
+| **Chapters** | 1, 2, 3 and 4 fully supported |
 
 ---
 
-## 🚀 WHAT'S NEXT?
+## ⚠️ WARNING
 
-### 👀 v1.4 — COMING SOON.
-
-More development lies ahead for METEL: UNLEASHED.
-
-*The next chapter of UNLEASHED is waiting...*
+Unofficial mod.  
+The developers of METEL are not responsible for any issues.
 
 ---
 
-## ⚠️ DISCLAIMER
+## 🙏 CREDITS
 
-**METEL: UNLEASHED is an unofficial, fan-made modification of METEL: Horror Escape.**
+Developed by **Kenjy**  
+Thanks to everyone who supports the mod 🫶 ❤️
 
-This project is not affiliated with or endorsed by the original developers of the game.
+**Contact:**  
+Discord: `kenjy123_`
 
-The original METEL developers are not responsible for issues resulting from installing or using this modification.
+---
+---
+
+# METEL UNLEASHED — CHANGELOG
 
 ---
 
-## 🙏 CREDITS & CONTACT
+## v1.4.0 — Seed of Winter Update *(Made by Kenjy)*
 
-**👨‍💻 Creator & Modder :** Kenjy
+### 🎉 NEW FEATURES!
 
-**🎮 Developer of the original game:** Linked Squad
+#### 1) SEED SYSTEM
+- **Custom Seeds:** Input any number to generate the exact same item placements and safe/terminals codes.
+- **Random Mode:** A button for generates a random seed *(P-S Playing with an anomaly forces Random Mode, you can't play with your own seeds)*.
+- **Saved Seeds:** Save up to 5 of your favorite seeds in the `F1` menu.
+- Your active seed is shown in the top-left corner in-game.
 
-**💬 Discord:** `kenjy123_`
+#### 2) CHRISTMAS ATMOSPHERE PRESET *(Exclusive v1.4 Update)*
+- New **"Christmas"** Atmosphere Preset.
+- **Custom Textures:** Snowy, bloody, and icy versions of walls floors and bricks.
+- Activates hidden vanilla Christmas assets *(trees, plants and lights)*.
+- **Snow Particles:** Beautiful, dense snow that stays active even on Low/Very Low graphics settings.
 
-### ⭐ SUPPORT THE PROJECT
-
-If you enjoy METEL: UNLEASHED, consider giving the GitHub repository a **Star ⭐**.
-
-Your support means a lot and helps motivate future development.
+#### 3) UI
+- Redesigned **Keyboard Overlay**.
+- The keyboard hides in the Main Menu, but keeps `F1-F4` visible.
+- **Anomaly Menu Redesign**.
 
 ---
 
-</div>
+### 🛠️ ANOMALY FIXES:
+
+- **Don't Stand Up:**
+  - Fixed a massive freeze caused by the audio loading of the maniac's responses *(they are now preloaded)*.
+  - Fixed the **"Double Maniac"** bug.
+  - Now if you have walked more than 3 meters while upright, the maniac will indeed enter pursuit mode in Chapter 1 : If you are outside the cage or if you close the cage door at the very last moment.
+
+- **Teleport & Fog:**
+  - Fixed the critical UI bug where you couldn't click on Terminals or Safes after teleporting.
+  - Added a restriction to prevent teleporting outside the house in Chapter 1.
+
+- **Inventory Flood:**
+  - Spawning now adapts to the number of free slots in your inventory in first 3 chapters *(Alan, Emily and Eugene)*.
+
+- **Shrinking:**
+  - You can now jump to reach otherwise inaccessible areas when you are small.
+  - Fixed collision bugs with the chair in Chapter 3.
+
+- **Speedrun:**
+  - `[Speedrun]` **"Show Timer"** and **FOV** sliders are now locked in the Legit Menu (`K`).
+
+- **Silent Hunt:**
+  - Fixed the maniac's logic in Chapter 1 *(like Don't Stand up final fixe)*.
+
+---
+
+### 🐛 OTHERS BUG FIXES:
+
+- **God Mode (`F2`):** Fixed a softlock where `F2` remained permanently blocked after a catch or scene change.
+- The game's pause mode now functions correctly.
+- **Achievements:**
+  - Fixed a crash on startup on MelonLoader logs.
+  - The **"Perfectionist"** achievement can now be unlocked correctly.
+
+---
+
+### 🖥️ COMPATIBILITY
+
+| Component | Version |
+| :--- | :--- |
+| **METEL: Horror Escape** | v1.01 |
+| **MelonLoader** | v0.7.3 Open-Beta |
+| **OS** | Windows 10 / 11 |
+| **Chapters** | 1, 2, 3 and 4 fully supported |
+
+---
+
+### 🎮 QUICK REFERENCE (SHORTCUTS)
+
+| Key | Action |
+| :--- | :--- |
+| **F1** | Open/Close Mod Menu |
+| **F2** | God Mode Toggle |
+| **F3** | Noclip Toggle |
+| **F4** | ESP Toggle |
+| **K** | Open/Close Legit Menu *(during anomalies)* |
+| **H** | Close all mod menus |
+| **N** | Manual Noise *(Silent Hunt)* |
+| **T** | Teleport *(Teleport & Fog)* |
+| **Ctrl + Wheel Mouse** | Increase/decrease menu size `F1` |
+
+---
+
+### 🙏 CREDITS
+
+Developed by **Kenjy**  
+Thanks to everyone who supports the mod! 🫶 ❤️
+
+**Contact:**  
+Discord: `kenjy123_`
+
+---
+
+## v1.3.0 — The Best Unleashed update
+
+### ✨ FEATURES:
+
+#### 1) Improvement of GRANNY ATMOSPHERE PRESET:
+- **Custom HD Textures:** Replaced walls, floors, bricks, and concrete with grim, weathered textures.
+- **Dust Particles:** Atmospheric floating dust particles in the air.
+
+> Note: All images were created by hand for the mod. No original Granny game textures were used. The only exception is the image of the brick wall, which was generated using the AI tool MidJourney and subsequently modified by hand.
+
+#### 2) SOUND LAB (BETA)
+A complete mini-DAW *(Digital Audio Workstation)* built right into the mod
+- 16 Pads per Preset *(Piano, Bass, Kick, Snare)*
+
+#### 3) ADELE'S CHAPTER ANOMALIES
+All 11 anomalies are now fully playable in Chapter 4 *(Adele's Chapter)*!
+
+#### 4) BRANDING & WELCOME SCREEN
+- **New Main Menu Logo:** `"METEL UNLEASHED"` logo replaces the vanilla one.
+- **New Teaser Card:** `"v1.4 COMING SOON"` card with a direct link to the mod's page.
+- **Redesigned Welcome Screen**.
+
+#### 5) LEGIT MENU (K)
+A fully redesigned and secure in-game menu.
+- **Accessible during anomalies:** Press `"K"` to open.
+- **Legit Options Only:** FOV, FPS Limit, VSync, Graphics Quality *(Medium only)*, and HUD toggles.
+- **Cheat Protection:** All cheats are automatically disabled when an anomaly is active.
+
+#### 6) QUALITY
+- **Jump Height Modifier:** Customize your jump height *(10% to 150%)* in `F1` Menu.
+- **Interaction Distance:** Adjust the player's interaction reach from `1m` to `30m`.
+- **Menu Scale Shortcuts:** Press `"Ctrl + Mouse Wheel"` to resize the menu by 5%.
+
+---
+
+### 🔧 BUG FIXES & IMPROVEMENTS
+
+- Fixed UI Buttons Being Unclickable.
+- Fixed CustomMusic in Main Menu: Music volume and pitch now apply instantly in the main menu, not just in-game.
+- Jumping is now disabled when an anomaly is active *(exception of Shrinking anomaly)*.
+- **Massive Cleanup:** Removed hundreds of debug logs, for better performance.
+- **Translation Simplification:** All menus and logs are now fully in English for better stability.
+- **Fixed Dog Size:** Changing the dog's size no longer causes glitches.
+
+---
+
+## v1.1.0 — The Anomaly Update
+
+### ✨ FEATURES:
+
+#### 1) 🟣 ANOMALIES SYSTEM (11 ANOMALIES)
+A brand new game mode that twists the gameplay with unique challenges!
+
+| # | Anomaly | Description |
+| :--- | :--- | :--- |
+| **1** | `"Fog of War"` | The fog becomes darker, but the maniac takes longer to arrive |
+| **2** | `"Random Noises"` | Random noises occur, but the player is faster than usual |
+| **3** | `"Don't Stand Up"` | If you walk more than 3m standing, the maniac comes in 5s |
+| **4** | `"Tilted World"` | The screen tilts occasionally. Stand still to clear it |
+| **5** | `"Inventory Flood"` | 3 random items appear every minute. Make noise to remove them |
+| **6** | `"Teleport & Fog"` | Press `T` to teleport. Fog colors change every 25 seconds |
+| **7** | `"Speedrun"` | Finish in under 6 minutes. FOV changes randomly, longer reach |
+| **8** | `"Shrinking"` | Each time you use an item, you shrink by 0.1m. Don't get too small! |
+| **9** | `"Silent Hunt"` | Noises are disabled. Press `N` to create a manual noise. Maniac appears every 40s if silent |
+| **10** | `"Mirror House"` | The world is inverted. Can you still find your way? |
+
+> ℹ️ Note: Anomalies do not work in Chapter D for now *(Adele's Chapter)*
+
+---
+
+#### 2) 🏆 ACHIEVEMENTS SYSTEM (20 ACHIEVEMENTS)
+Track your progress and unlock achievements for completing specific challenges! Important: You must unlock at least 10 achievements to unlock the anomalies menu
+
+| # | Achievement | Condition |
+| :--- | :--- | :--- |
+| **1** | `"A New Challenger"` | Start the game for the first time with the mod |
+| **2** | `"Smooth Talker"` | Equip a skin or mask |
+| **3** | `"The Silent Treatment"` | Disable all game sounds |
+| **4** | `"Not My First Rodeo"` | Escape for the first time |
+| **5** | `"Surveillance Expert"` | Stay 45 seconds in a camera POV without leaving |
+| **6** | `"Deep Blue Sea"` | Swim in Ocean mode |
+| **7** | `"Where Did He Go?"` | Use the Freeze Maniac function |
+| **8** | `"Bulls-eye"` | Use ESP to locate the maniac |
+| **9** | `"Close Call"` | Get hit by the maniac while God Mode is active |
+| **10** | `"The Giant Slayer"` | Increase the maniac's size to maximum |
+| **11** | `"The Architect"` | Change the menu color via ModDisplay |
+| **12** | `"I'm a PC"` | Set the game to Low or Very Low graphics |
+| **13** | `"Can't Touch This"` | Use NoClip |
+| **14** | `"Disc Jockey"` | Change the music 10 times |
+| **15** | `"So It Begins"` | Start a game with an anomaly activated |
+| **16** | `"Perfectionist"` | Complete all anomalies |
+| **17** | `"Smooth Criminal"` | Get caught making noise |
+| **18** | `"I'm Melting!"` | Set the player size to minimum |
+| **19** | `"Mister Worldwide"` | Change the game language |
+| **20** | `"Lose Yourself"` | Get a Game Over screen |
+
+---
+
+#### 3) 🛡️ PROCESS DETECTOR *(CHEAT DETECTOR, Deleted in v1.3)*
+- Press `"P"` to open the Process Detector window.
+- Scans for suspicious processes *(auto-clickers, cheat engines, trainers, injectors...)*
+- **"Filter":** Show only detections.
+- **"Search":** Find specific processes.
+- **"Manual scan"** with cooldown.
+- **Auto-scan** toggle.
+
+---
+
+### 🎮 KEYBOARD OVERLAY IMPROVEMENTS
+
+- Added `"P"` key shortcut next to `F1-F5` *((Deleted in v1.3)*
+- Added `"Cheat Detector"` label under the `P` key *(Deleted in v1.3)*
+- All shortcuts clearly labeled.
+
+---
+
+### 🛠️ BUG FIXES & IMPROVEMENTS
+
+- **Chapter 4:** Anomalies are now blocked with a clear message.
+- **Mirror House:** Fixed fog issue causing white screen.
+- **Teleport & Fog:** Fixed fog distance for small rooms.
+- **Shrinking:** Camera now follows the player's height properly.
+- **Speedrun:** Fixed timer sync issues.
+- **Silent Hunt:** Fixed `N` key being blocked during maniac appearance.
+- **Translation:** Simplified to English for better stability with new features *(Language feature, deleted in v1.3)*.
+- Improved **"Low"** and **"Very Low"** modes for Quality Settings *(Now it is the game textures that are blurred)*.
+- The key to delete points 1 by 1 in Draw Mode has been changed from `"M"` to `"Delete"`.
+- The **VSync** option is now enabled when starting the mod by default.
+- The **“Freeze Maniac”** option now works correctly.
+- Removed the **“Camera that follows size"** option which was useless.
+- No more bug on changing dog size.
