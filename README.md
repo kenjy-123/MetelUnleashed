@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/CEN1FbS" alt="METEL UNLEASHED " width="100%">
+  <img src="https://i.imgur.com/fIAjvWR.jpeg" alt="METEL UNLEASHED " width="100%">
 </p>
 
 # METEL UNLEASHED — v1.4.0 *(By Kenjy)*
