@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://imgur.com/fIAjvWR"
+</p>
+
 # METEL UNLEASHED — v1.4.0 *(By Kenjy)*
 
 ---
