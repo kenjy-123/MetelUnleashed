@@ -32,7 +32,7 @@
 
 ---
 
-## 🌱 HOW TO USE THE SEED SYSTEM
+## HOW TO USE THE SEED SYSTEM
 
 1. Open the Mod Menu (`F1`) and go to **"SEED SYSTEM"**.
 2. Type a number in the box and click **"Apply Seed"**.
